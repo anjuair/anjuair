@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @anjuair
-- 👀 I’m interested in data science, environmental issues, natural resource management
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science, research data mangement, data analysis and decision making
 
 <!---
 anjuair/anjuair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
